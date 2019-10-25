@@ -1,4 +1,4 @@
-# WeatherForecastChatBot
+# Weather-Chatbot
 
 For getting the location from the query. I used NERTagger Standford.
 Download Link-
