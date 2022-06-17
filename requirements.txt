@@ -8,7 +8,7 @@ jedi==0.10.2
 jupyter-client==5.0.1
 jupyter-core==4.3.0
 nltk==3.2.2
-numpy==1.12.1
+numpy==1.21.0
 packaging==16.8
 pandas==0.19.2
 pexpect==4.2.1
